@@ -3,3 +3,7 @@ pubspec.yaml
 NOTES
 .project
 .children
+.idea
+*.iml
+packages
+pubspec.lock
